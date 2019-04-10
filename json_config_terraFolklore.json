@@ -1,0 +1,171 @@
+{
+    "data": "Este es el archivo de configuracion",
+    "grupo": [{
+            "nombre": "Augusto Rodríguez",
+            "foto": "https://storage.googleapis.com/terrafolklore.appspot.com/images/auguto_portada.jpg",
+            "descripcion": "Ha interpretado el acordeón, la guacharaca, voz principal y corista desde el año 1980, ha formado parte de diferentes grupos musicales, en la zona del tequendama y Soacha, actualmente es el director fundador de la agrupación Terra Folklore conformada por sus hijos Luchito, Felipe y Lady Rodríguez como músicos principales.",
+            "redes": {
+                "facebook": "",
+                "instagram": "",
+                "youtube": ""
+            }
+        },
+        {
+            "nombre": "Luchito Rodríguez",
+            "foto": "https://storage.googleapis.com/terrafolklore.appspot.com/images/lucho_portada.jpg",
+            "descripcion": "Luis Eduardo Rodríguez más conocido como “Luchito Rodríguez”, acordeonista y pianista, ha participado en el Festival de la Leyenda Vallenata desde el año 2011 en diferentes categorías, ah compartido escenario con diferentes interpretes de la musica vallenata, como Jorge Celedón, Alejandro Palacio, Nelsón Velásquez entre otros... Actualmente participa en el proyecto  de Mario Muñoz “Subcantante” y es el director musical de la agrupación Terra Folklore.",
+            "redes": {
+                "facebook": "",
+                "instagram": "",
+                "youtube": ""
+            }
+        },
+        {
+            "nombre": "Lady Rodríguez",
+            "foto": "https://storage.googleapis.com/terrafolklore.appspot.com/images/lucho_portada.jpg",
+            "descripcion": "compositor y acordeonero mas de 10 años grandes participaciones en eventes de talla mundial",
+            "redes": {
+                "facebook": "",
+                "instagram": "",
+                "youtube": ""
+            }
+        }
+    ],
+    "parrandas": [{
+            "titulo": "Parranda Vallenata Soacha",
+            "fecha": "23-12-2018",
+            "descripcion": "dos horas de puro vallenato para toda la ciudad. patrocinado por la alcaldia de soacha, un gusto poder cantar y servir a esta comunidad",
+            "imagen": "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda1.jpg"
+        },
+        {
+            "titulo": "Parranda Vallenata Bogota",
+            "fecha": "01-12-2018",
+            "descripcion": "dos horas de puro vallenato para toda la ciudad. patrocinado por la alcaldia de soacha, un gusto poder cantar y servir a esta comunidad",
+            "imagen": "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda2.jpg"
+        },
+        {
+            "titulo": "Parranda Vallenata Tolima",
+            "fecha": "10-12-2018",
+            "descripcion": "dos horas de puro vallenato para toda la ciudad. patrocinado por la alcaldia de soacha, un gusto poder cantar y servir a esta comunidad",
+            "imagen": "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda4.jpg"
+        }
+    ],
+    "conocenos": {
+        "titulo": "Conocenos",
+        "descripcion": "TERRA FOLKLORE, Es una agrupación selecta y disciplinada nacida con proyectos visionarios para desarrollar no solo el género vallenato, sino también a FUTURO el género tropical, con el fin de complacer los diferentes públicos a lo largo y ancho de nuestra cultura exigente y extensiva en los géneros musicales. Nos distinguimos por interpretar la música con respeto, interpretada originalmente agregando en nuestros shows un estilo que nos identifica y nos hace diferentes ante otras agrupaciones. Con una trascendencia familiar desde hace más de 20 años, se inicia en forma una agrupación de 5 músicos siendo esta llamada “Son & Pachanga el expreso de la parranda” contando con el inicio de una carrera musical de un acordeonero de tan solo 12 años con quien se fue fortaleciendo y adquiriendo más madures en la interpretación del genero Vallenato, con presentaciones en parranda por todo Cundinamarca, a su vez se hace necesario proyectarse a un nivel más profesional por lo cual hacia el año 2015 se integran a nuestro proyecto 6 músicos más para iniciar una nueva etapa llamada “Terra Folklore”.",
+        "imagen": "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda4.jpg"
+    },
+    "imagenes": [
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda1.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda2.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda3.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda4.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda5.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda6.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda7.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda8.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda9.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda10.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda11.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/parranda12.jpg"
+    ],
+    "videos": [{
+            "codeYotube": "9UkK3jSbdAM",
+            "title": "Caminaré (ensayo)"
+        },
+        {
+            "codeYotube": "r6nPnn1fE6w",
+            "title": "Hoja en blanco"
+        },
+        {
+            "codeYotube": "Ln138nzEsTQ",
+            "title": "Lo ajeno se respeta"
+        },
+        {
+            "codeYotube": "v9Cz86Yn_RQ",
+            "title": "Gaviota Herida"
+        },
+        {
+            "codeYotube": "opGATOI77kc",
+            "title": "Nelson Velasquez y Luchito Rodrìguez (Lucero espiritual)"
+        },
+        {
+            "codeYotube": "jcIl3QRVSas",
+            "title": "Alejandro Palacios y Luchito Rodríguez"
+        },
+        {
+            "codeYotube": "mPrVtEgXaX8",
+            "title": "Jorge celedon y Luchito Rodriguez version 2"
+        },
+        {
+            "codeYotube": "v9Cz86Yn_RQ",
+            "title": "Gaviota Herida"
+        },
+        {
+            "codeYotube": "opGATOI77kc",
+            "title": "Nelson Velasquez y Luchito Rodrìguez (Lucero espiritual)"
+        },
+        {
+            "codeYotube": "jcIl3QRVSas",
+            "title": "Alejandro Palacios y Luchito Rodríguez"
+        },
+        {
+            "codeYotube": "mPrVtEgXaX8",
+            "title": "Jorge celedon y Luchito Rodriguez version 2"
+        },
+        {
+            "codeYotube": "9UkK3jSbdAM",
+            "title": "Caminaré (ensayo)"
+        },
+        {
+            "codeYotube": "r6nPnn1fE6w",
+            "title": "Hoja en blanco"
+        },
+        {
+            "codeYotube": "Ln138nzEsTQ",
+            "title": "Lo ajeno se respeta"
+        },
+        {
+            "codeYotube": "v9Cz86Yn_RQ",
+            "title": "Gaviota Herid"
+        }
+    ],
+    "banners": [
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/banner1.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/banner2.jpg",
+        "https://storage.googleapis.com/terrafolklore.appspot.com/images/banner3.jpg"
+    ],
+    "navbar": {
+        "logo": "https://storage.googleapis.com/terrafolklore.appspot.com/images/logo_head.jpg",
+        "facebook": "https://www.facebook.com/Terra-Folklore-872926789460426/",
+        "instagram": "https://www.instagram.com/terra_folklore/",
+        "youtube": "https://www.youtube.com/user/medellin281"
+    },
+    "lessons": {
+        "name": "Luchito Rodríguez",
+        "img": "https://storage.googleapis.com/terrafolklore.appspot.com/images/lucho_portada.jpg",
+        "description": "Luis Eduardo Rodríguez más conocido como “Luchito Rodríguez”, acordeonista y pianista, ha participado en el Festival de la Leyenda Vallenata desde el año 2011 en diferentes categorías, ah compartido escenario con diferentes interpretes de la musica vallenata, como Jorge Celedón, Alejandro Palacio, Nelsón Velásquez entre otros... Actualmente participa en el proyecto  de Mario Muñoz “Subcantante” y es el director musical de la agrupación Terra Folklore.",
+        "phone": "3156725409",
+        "lessons": [{
+            "title": "Acordeon",
+            "img": "http://cdn.shopify.com/s/files/1/0787/6455/products/HOHNER_CORONAII_ROJO_grande.png?v=1445618293",
+            "description": "Clases de Acrodeon desde las bases a profesional",
+            "price": "1 Hora $ 20.000"
+        }, {
+            "title": "Piano",
+            "img": "https://media.sweetwater.com/api/i/q-82__ha-4cf11a0a4fddb051__hmac-3aa40aeb629551a764d4c0613f61a1ddae018778/images/items/750/P45BKHome-large.jpg",
+            "description": "Clases de piano en sede propia o a domicilio.",
+            "price": "1 Hora $ 30.000"
+        }, {
+            "title": "Guitarra",
+            "img": "https://www.profesionaldj.es/9523-large_default/takamine-ef341sc.jpg",
+            "description": "Clases de Guitarra empezando de lo mas basico hasta lo mas profesional.",
+            "price": "1 Hora $ 25.000"
+        }, {
+            "title": "Canto",
+            "img": "http://www.apsf.org.ar/images/Microfonoauric.jpg",
+            "description": "Las mejores clases de canto las puedes encontrar aqui. Precios muy economicos",
+            "price": "1 Hora $ 20.000"
+        }]
+    }
+}
